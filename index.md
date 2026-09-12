@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: home
 title: "Welcome"
 permalink: /
 ---
 Welcome! This is a home page for Hyeon Lee.
 
-<img src="Hyeon_Lee_photo.jpg" height="200">
+<img src="Hyeon_Lee_photo.jpg" height="50">
 
 # Biography
 
