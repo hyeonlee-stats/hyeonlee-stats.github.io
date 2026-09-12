@@ -1,0 +1,58 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.home-page .home-content-wrapper {
+  margin-left: 1.5rem;
+  padding-left: 0.5rem;
+}
+
+.home-page .home-profile-image {
+  width: 180px;
+  height: auto;
+}
+
+.home-page .page__content {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.home-page .home-intro {
+  font-size: 1.15rem;
+}
+
+.home-page .page__content h1 {
+  font-size: 1.8rem;
+}
+
+.home-page .page__content h2 {
+  font-size: 1.35rem;
+}
+
+@media (max-width: 768px) {
+  .home-page .home-content-wrapper {
+    margin-left: 0.25rem;
+    padding-left: 0;
+  }
+
+  .home-page .home-profile-image {
+    width: 120px;
+  }
+
+  .home-page .page__content {
+    font-size: 1rem;
+  }
+
+  .home-page .home-intro {
+    font-size: 1.05rem;
+  }
+
+  .home-page .page__content h1 {
+    font-size: 1.5rem;
+  }
+
+  .home-page .page__content h2 {
+    font-size: 1.2rem;
+  }
+}

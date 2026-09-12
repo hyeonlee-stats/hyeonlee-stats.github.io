@@ -2,10 +2,15 @@
 layout: home
 title: "Welcome"
 permalink: /
+classes:
+  - wide
+  - home-page
 ---
-Welcome! This is a home page for Hyeon Lee.
+<div class="home-content-wrapper" markdown="1">
 
-<img src="Hyeon_Lee_photo.jpg" height="50">
+<p class="home-text-block home-intro">Welcome! This is a home page for Hyeon Lee.</p>
+
+<img src="Hyeon_Lee_photo.jpg" class="home-profile-image" alt="Hyeon Lee profile photo">
 
 # Biography
 
@@ -38,3 +43,5 @@ learning analysis of the IDEA trial”. Osteoarthritis and cartilage 33, S160–
 # Presentations
 - "Principal Subsimplex Analysis'', Joint Statistical Meetings (Contributed Paper), Nashville, TN, 2025
 - "Principal Subsimplex Analysis'', Object Oriented Data Analysis and its Applications (Poster Presentation), UNC Chapel Hill, Chapel Hill, NC, 2025
+
+</div>
