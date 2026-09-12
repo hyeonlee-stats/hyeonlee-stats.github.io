@@ -9,7 +9,7 @@ classes:
 <div class="home-content-wrapper" markdown="1">
 <p></p>
 <div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
-  <img src="Hyeon_Lee_photo.jpg" alt="Hyeon Lee profile photo" style="width: 180px; max-width: 40vw; height: auto;">
+  <img src="Hyeon_Lee_photo.jpg" alt="Hyeon Lee profile photo" style="width: 240px; max-width: 40vw; height: auto;">
   
   <div style="flex: 1 1 280px;">
     <h3 style="margin-top: 0;">Hyeon Lee</h3>
