@@ -2,6 +2,7 @@
 layout: home
 title: "Welcome"
 permalink: /
+classes: wide
 ---
 Welcome! This is a home page for Hyeon Lee.
 
