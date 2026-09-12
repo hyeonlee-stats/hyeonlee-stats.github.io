@@ -13,11 +13,13 @@ classes:
   
   <div style="flex: 1 1 280px;">
     <h3>Hyeon Lee</h3>
-    <p>Hyeon Lee</p>
-    <p>Ph.D. Candidate</p>
-    <p>Department of Statistics and Operations Research</p>
-    <p>University of North Carolina at Chapel Hill</p>
-    <p>hyeonlee at unc dot edu</p>
+    <p style="margin-top: 0;">
+    Ph.D. Candidate<br>
+    Department of Statistics and Operations Research<br>
+    University of North Carolina at Chapel Hill<br>
+    <br>
+    hyeonlee at unc dot edu
+    </p>
   </div>
 </div>
 
