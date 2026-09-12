@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome!"
+title: ""
 permalink: /
 classes:
   - wide
@@ -13,7 +13,7 @@ classes:
   
   <div style="flex: 1 1 280px;">
     <h3 style="margin-top: 0;">Hyeon Lee</h3>
-    <p style="margin-top: 0;">
+    <p style="margin-top: 0; margin-bottom; 1">
     Ph.D. Candidate<br>
     Department of Statistics and Operations Research<br>
     University of North Carolina at Chapel Hill<br>
@@ -22,6 +22,7 @@ classes:
     </p>
   </div>
 </div>
+
 
 # Biography
 
