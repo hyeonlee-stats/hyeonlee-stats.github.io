@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome!"
 permalink: /
 classes:
   - wide
   - home-page
 ---
 <div class="home-content-wrapper" markdown="1">
-
+<p></p>
 <div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
   <img src="Hyeon_Lee_photo.jpg" alt="Hyeon Lee profile photo" style="width: 180px; max-width: 40vw; height: auto;">
   
