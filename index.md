@@ -18,7 +18,7 @@ classes:
     Department of Statistics and Operations Research<br>
     University of North Carolina at Chapel Hill<br>
     <br>
-    hyeonlee at unc dot edu
+    email: hyeonlee at unc dot edu
     </p>
   </div>
 </div>
