@@ -12,7 +12,7 @@ classes:
   <img src="Hyeon_Lee_photo.jpg" alt="Hyeon Lee profile photo" style="width: 180px; max-width: 40vw; height: auto;">
   
   <div style="flex: 1 1 280px;">
-    <h3>Hyeon Lee</h3>
+    <h3 style="margin-top: 0;">Hyeon Lee</h3>
     <p style="margin-top: 0;">
     Ph.D. Candidate<br>
     Department of Statistics and Operations Research<br>
