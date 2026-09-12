@@ -10,12 +10,22 @@ classes:
 
 <div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
   <img src="Hyeon_Lee_photo.jpg" alt="Hyeon Lee profile photo" style="width: 180px; max-width: 40vw; height: auto;">
+  
   <div style="flex: 1 1 280px;">
-    <p class="home-text-block home-intro">Welcome! This is a home page for Hyeon Lee.</p>
+    <h3>Hyeon Lee</h3>
+    <p>Hyeon Lee</p>
+    <p>Ph.D. Candidate</p>
+    <p>Department of Statistics and Operations Research</p>
+    <p>University of North Carolina at Chapel Hill</p>
+    <p>hyeonlee at unc dot edu</p>
   </div>
 </div>
 
 # Biography
+
+I am Hyeon Lee (pronounced “Hee-eon Lee”), a Ph.D. candidate in the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill, advised by Professor J. S. Marron. Before joining UNC, I earned a B.S. in Mathematical Science at Korea Advanced Institute of Science and Technology (KAIST) with minor in Industrial and Systems Engineering. Following this, I earned an M.S. in Statistics at Seoul National University under supervision of Professor Byeong U. Park.
+
+My research focuses on developing statistical methodologies for analyzing data with non-Euclidean geometry, with special emphasis on dimension reduction and identifying modes of variation. I have been studying low-dimensional subsimplex representations of compositional data, modeling functional data with time-warping, and estimating probabilistic models for categorical data. Most recently, I have been exploring statistical utility of unbalanced optimal transport for analyzing functional data. My research is motivated by scientific questions from diverse areas, including geology, microbiology, and biomechanics. I always welcome collaborative opportunities on statistical problems across all fields where scientific needs raise interesting statistical and mathematical questions.
 
 # Education
 
