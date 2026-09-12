@@ -8,9 +8,12 @@ classes:
 ---
 <div class="home-content-wrapper" markdown="1">
 
-<p class="home-text-block home-intro">Welcome! This is a home page for Hyeon Lee.</p>
-
-<img src="Hyeon_Lee_photo.jpg" class="home-profile-image" alt="Hyeon Lee profile photo">
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <img src="Hyeon_Lee_photo.jpg" alt="Hyeon Lee profile photo" style="width: 180px; max-width: 40vw; height: auto;">
+  <div style="flex: 1 1 280px;">
+    <p class="home-text-block home-intro">Welcome! This is a home page for Hyeon Lee.</p>
+  </div>
+</div>
 
 # Biography
 
