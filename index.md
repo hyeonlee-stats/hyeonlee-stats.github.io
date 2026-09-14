@@ -41,7 +41,12 @@ My research focuses on developing statistical methodologies for analyzing data w
 - Korea Advanced Institute of Science and Technology *(Mar. 2015 – Feb. 2020)*
   - B.S. in Mathematical Science, minor in Industrial and Systems Engineering
 
+# CV
+[Curriculum Vitae](/assets/Hyeon_Lee_CV.pdf)
+
 # Publications
+[Google Scholar](https://scholar.google.com/citations?user=qdvdhK4AAAAJ&hl=en)
+
 ## Peer-Reviewed Publications
 - **Lee, H.**, Hingee, K. L., Scealy, J. L., Wood, A. T., Grunsky, E., and Marron, J. S. (2026). “Principal
 subsimplex analysis”. Journal of computational and graphical statistics. accepted, pp. 1–18. [(link)](https://arxiv.org/html/2504.09853v1)
